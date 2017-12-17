@@ -6,7 +6,7 @@
 
 ### Forumla is :
 - Sekky Mallawany = Mekky -> First word has wrong charcter at its start here is : S , and second word has the correct one M,
-Which is combined with the first word to produce Sekky Mallawany.
+Which is combined with the first word to produce Mekky.
 
 #### EX : 
 - Kbdallah Afro = Abdallah
